@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/.babelrc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/.editorconfig" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/build/webpack.base.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/build/webpack.config.client.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/build/webpack.config.server.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/.eslintrc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/config/router.jsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/server-entry.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/server.template.ejs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/store/app-state.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/store/store.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/store/topic-store.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/util/http.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/util/variable-define.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/views/App.jsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/views/layout/app-bar.jsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/views/layout/container.jsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/views/test/api-test.jsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/views/topic-create/index.jsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/views/topic-create/styles.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/views/topic-detail/index.jsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/views/topic-detail/reply.jsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/views/topic-detail/styles.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/views/topic-list/index.jsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/views/topic-list/list-item.jsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/views/topic-list/styles.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/views/user/info.jsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/views/user/login.jsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/views/user/styles/login-style.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/views/user/styles/user-info-style.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/views/user/styles/user-style.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/views/user/user.jsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nodemon.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/package.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/server.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/util/dev-static.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/util/handle-login.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/util/proxy.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/util/server-render.js" charset="UTF-8" />
+  </component>
+</project>
